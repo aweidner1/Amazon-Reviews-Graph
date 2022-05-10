@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=FineFoodsReviews
+comment1.params=
+comment1.target=FineFoodsReviews()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ numReviews()
+comment3.params=
+comment3.target=int\ numProducts()
+comment4.params=
+comment4.target=int\ numUsers()
+comment5.params=
+comment5.target=void\ setupFoodGraph()
+comment6.params=k
+comment6.target=int\ minProdReviews(int)
+comment7.params=prod
+comment7.target=java.util.HashSet\ coReviewedProducts(java.lang.String)
+comment8.params=
+comment8.target=java.util.HashMap\ prodAvgScore()
+comment9.params=userId
+comment9.target=int\ maxMultipleReviews(java.lang.String)
+numComments=11

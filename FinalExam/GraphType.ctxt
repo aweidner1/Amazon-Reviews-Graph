@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GraphType
+comment1.params=
+comment1.target=GraphType()
+comment2.params=vertex
+comment2.target=java.util.ArrayList\ getAdjacency(java.lang.Object)
+comment3.params=vertex
+comment3.target=int\ degree(java.lang.Object)
+comment4.params=vertex
+comment4.target=void\ addVertex(java.lang.Object)
+comment5.params=v1\ v2
+comment5.target=boolean\ isEdge(java.lang.Object,\ java.lang.Object)
+comment6.params=v1\ v2
+comment6.target=void\ addEdge(java.lang.Object,\ java.lang.Object)
+numComments=7
